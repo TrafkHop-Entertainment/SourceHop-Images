@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/../../../.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../fragAlfonz/AlfonzProxy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../../games/released/Raufbold3bs-Scratch-Archive/Raufbold3bs-Scratch-Archive" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../assets/Sourcehop-Audios" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../assets/Sourcehop-Documents" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../assets/Sourcehop-GodotScenes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../assets/Sourcehop-Images" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../assets/Sourcehop-Models" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../assets/Sourcehop-Shaders" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../../../trafkverse/Sourcehop-Notes" vcs="Git" />
+  </component>
+</project>
