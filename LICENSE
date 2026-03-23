@@ -1,37 +1,63 @@
 ───────────────────────
-LICENSE v2 | 13.01.2026 
+LICENSE v3 | 23.03.2026
 ───────────────────────
 
 Copyright © 2026 Trafkhop Entertainment™ <contact.trafkhop@proton.me>
 All rights reserved.
 
 This license applies to all current and future projects
-released by Trafkhop Entertainment™, unless stated otherwise.
-Each project is governed by the license version
-included at the time of its release.
+released by Trafkhop Entertainment™, unless stated otherwise
+on a per-project basis.
+
+─────────────────────
+0. OPEN SOURCE NOTICE
+─────────────────────
+
+Some projects released by Trafkhop Entertainment™ may include,
+be built upon, or be distributed alongside third-party software
+components that are subject to their own open source licenses
+(including but not limited to the GNU General Public License,
+MIT License, Apache License 2.0, and similar).
+
+This license does NOT override, restrict, or supersede the terms
+of any such third-party open source licenses. The rights and
+obligations defined in those licenses remain fully in effect for
+their respective components.
+
+This license applies exclusively to original work created by
+Trafkhop Entertainment™, including but not limited to:
+original source code, creative content, raw assets, branding,
+and configuration files authored by Trafkhop Entertainment™.
 
 ──────────────────
 1. CODE & SOFTWARE
 ──────────────────
 
-This section applies to all forms of code, including but not limited to
-source code, scripts, logic files, shaders, and compiled binaries.
-The code is publicly available for viewing and reference purposes only.
+This section applies to all forms of original code authored by
+Trafkhop Entertainment™, including but not limited to source code,
+scripts, logic files, shaders, and compiled binaries.
+
+The code is publicly available for viewing and reference
+purposes only.
 
 You may NOT:
 
 * copy
 * modify
-* compile
 * distribute
 * sublicense
 * fork
 * integrate
 * use
 
-any part of the code, in whole or in part,
-in any project, commercial or non-commercial,
-without explicit written permission from Trafkhop Entertainment™.
+any part of the code, in whole or in part, in any project,
+commercial or non-commercial, without explicit written permission
+from Trafkhop Entertainment™.
+
+You MAY:
+
+* compile the code for personal, non-distributed use
+* view and reference the code for educational purposes
 
 ───────────────────────────────────────────
 2. CREATIVE CONTENT & INTELLECTUAL PROPERTY
@@ -73,36 +99,38 @@ Provided that:
 * music tracks
 * UI elements
 
-Permission is GRANTED to use Raw Assets for non-commercial fan projects
-under the following limitations:
+Permission is GRANTED to use Raw Assets for non-commercial fan
+projects under the following limitations:
 
-* Assets may be used only as part of a larger creative or transformative work
+* Assets may be used only as part of a larger creative or
+  transformative work
 * Assets may be modified for compatibility or style consistency
 * Assets may NOT be redistributed as standalone files or asset packs
 * Assets may NOT be used in a way that replaces the original work
-* Assets may NOT be used to impersonate official Trafkhop Entertainment™ releases
+* Assets may NOT be used to impersonate official
+  Trafkhop Entertainment™ releases
 
 ──────────────────────────────────
 4. CONTENT CREATION & MONETIZATION
 ──────────────────────────────────
 
 Trafkhop Entertainment™ encourages the creation of videos and images
-featuring our games. You may share and monetize your content on
+featuring our projects. You may share and monetize your content on
 video-sharing and social media platforms (such as YouTube, Twitch, etc.)
 subject to the following rules:
 
 * Monetization is permitted ONLY through official platform-provided
-monetization methods (e.g., YouTube Partner Program, Twitch Affiliates).
+  monetization methods (e.g., YouTube Partner Program, Twitch Affiliates).
 * You are encouraged to provide your own creative input (commentary,
-reviews, or transformative editing).
+  reviews, or transformative editing).
 * Simple copies of gameplay or music without any original contribution
-are NOT permitted, unless using official system sharing functions.
-* You may only use content that has been officially released to the public
-or from official promotional material (trailers, etc.).
+  are NOT permitted, unless using official system sharing functions.
+* You may only use content that has been officially released to the
+  public or from official promotional material (trailers, etc.).
 * You must not state or imply that your content is official, sponsored,
-or endorsed by Trafkhop Entertainment™.
+  or endorsed by Trafkhop Entertainment™.
 * We reserve the right to remove or object to any content we deem
-unlawful, inappropriate, or non-compliant with these guidelines.
+  unlawful, inappropriate, or non-compliant with these guidelines.
 
 ─────────────────
 5. COMMERCIAL USE
@@ -111,7 +139,7 @@ unlawful, inappropriate, or non-compliant with these guidelines.
 Except for the monetization methods explicitly permitted in Section 4,
 any commercial use of:
 
-* the code
+* original code
 * creative content
 * raw assets
 * music
@@ -123,14 +151,15 @@ is granted by Trafkhop Entertainment™.
 6. LICENSE UPDATES
 ──────────────────
 
-Trafkhop Entertainment™ reserves the right to
-update or modify this license in the future.
+Trafkhop Entertainment™ reserves the right to update or modify
+this license at any time, without prior notice or announcement.
 
-* License updates apply only to future releases
-
-
-* Existing releases remain under the license version
-  that was in effect at the time of their release
+* License updates take effect immediately upon publication.
+* Updated license terms apply to ALL projects by
+  Trafkhop Entertainment™, including previously released ones,
+  unless a project explicitly states otherwise.
+* It is the responsibility of users and contributors to check
+  for the current license version.
 
 ────────────────────────
 7. RESERVATION OF RIGHTS
