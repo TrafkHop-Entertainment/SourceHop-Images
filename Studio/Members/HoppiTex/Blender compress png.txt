@@ -1,0 +1,1 @@
+mogrify -colorspace DisplayP3 -colorspace sRGB -colors 256 -depth 8 -define png:compression-level=9 -define png:compression-strategy=1 "ProfilePic2 smaller.png"
