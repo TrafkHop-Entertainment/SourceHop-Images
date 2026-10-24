@@ -1,1 +1,9 @@
 mogrify -colorspace DisplayP3 -colorspace sRGB -colors 256 -depth 8 -define png:compression-level=9 -define png:compression-strategy=1 "ProfilePic2 smaller.png"
+
+
+
+
+
+mogrify -colorspace DisplayP3 -colorspace sRGB -resize 1080x1080\> -colors 256 -depth 8 -define png:compression-level=9 -define png:compression-strategy=1 "ProfilePic2T smaller.png"
+
+convert "ProfilePic2NT smaller.png" -quality 82 "ProfilePic2NT smaller.jpg"
