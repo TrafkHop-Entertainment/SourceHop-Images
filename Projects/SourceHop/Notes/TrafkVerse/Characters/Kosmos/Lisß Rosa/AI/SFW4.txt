@@ -1,0 +1,46 @@
+Scratchpad:
+---
+
+GLOBAL = (best quality, masterpiece, highres, natural movement, natural positioning, very soft skin:1.8), (clean anime artstyle, thin lineart, soft delicate lines, sharp focus, soft anime lighting, volumetric lighting, detailed background:1.6), (perfect anatomy, correct skeletal alignment, proper joint placement, natural muscle definition, correct positioning, accurate proportions, natural body part placement:1.8), (single character, fully separate body with distinct skin and clear but thin outline, no morphing, no merging:1.8), (all joints bend correctly, no double knees, no backward knees, 2 legs, 2 arms, 2 hands:1.8), (perfectly drawn hands, five distinct fingers per hand, detailed fingernails:1.8), (single frozen moment, exactly one static frame, no panels, singular character:1.9), (correct skin color:1.8), (correctly clothed:2.0), (distinct left and right arms, elbows clearly visible:1.7)
+
+MALE = (1boy, male, solo, one male character:1.5), (young adult man, masculine facial structure, defined sharp jawline, clear male facial features, wide male anime eyes, strong firm chin, distinct male nose, absolutely no makeup, masculine anime face:1.6), (male body anatomy, broad shoulders, completely flat muscular chest, narrow waist, fit male physique, visible lean muscles, athletic masculine frame, tall male character, distinct male hands:1.5)
+
+
+ROSA = (Lisß Rosa, 1.74m in size, 69kg, Austrian-Spanish 75/25:1.8), (light brown latina skin, latina, uniform skin tone, slight tan:1.9), (adult woman, mature facial features, 21 years old, a bit oval vertical head, mature head:1.8), (long light yellow blond hair, neat, tidy, smooth, hanging down:1.7), (a single small thin ahoge strand of hair sticking up from the middle back right of her head:1.8), (magenta eyes:1.8), (pink lips:1.3), (Roman-Japanese shaped nose:1.2), (full set of top and bottomteeth:1.9), (fangs:1.6), (D-E cup breasts, natural breast size:1.6), (soft sleek thin build, slightly toned athletic body, soft cute feminine, not muscular:1.5), (not skinny, not fat:1.2), (mature round oval face:1.7), (light brown latina skin, latina, uniform skin tone, slight tan:1.9), (light brown latina skin, latina, uniform skin tone, slight tan:1.9), (cute facial expressions, she is a kind woman:1.5)
+
+ROSA2 = (Lisß Rosa has light brown latina skin, latina, uniform skin tone, slight tan:1.9), (hair is not chaotic:1.8), (oiled up female skin:1.8)
+
+ROSAOUTFITS = {(verylightblue open sleeved-vest with a almost white light blue long t-shirt that covers her whole upper body, a pink flower on the left upper side of the vest, bland magenta short-to-medium skirt, white stockings that go almost up to the skirt, black sports shoes, straw sun hat with a black band:1.8), (white underwear:1.5) | (shimmering golden glitter prom dress, elegant almost floor-length, high slit on left leg:1.6), (matching golden high heels, delicate ankle straps, thin silver chain details with small turquoise gem accents on the straps, shoe ornaments matching the jewelry:1.5), (dangling gold earrings with turquoise gems:1.2), (thin silver chain armband on right upper arm:1.3), (two thin pink glitter rubber bands on wrists:1.5), (bare head, long flowing hair, bare neck, no necklace, no hat:1.8), (black underwear:1.2)}
+
+ROSARUBBER =  (one thin pink glitter rubber band on her right upper arm that is tight:1.7), (two thiner pink glitter rubber bands on her wrists:1.7), (tight bands that squeeze the skin a little:1.7), (the bands are thin and singular:1.3), (bands are very thin:1.5), (bands not on fingers or on toes, bands only on Lisß Rosa:1.9)
+
+ROSASCENES = { (outdoor cafe terrace, sunny street, sitting at a wooden chair:1.6), (Lisß Rosa holds exactly one large glass of pink milkshake:1.6), (holding the glass firmly with both hands:1.7), (natural sitting pose, eyes closed, enjoyful expression:1.5), (lips wrapped tightly around the pink straw, straw resting inside her mouth, actively drinking through the straw:1.8), (wide camera angle, Lisß Rosa in the center, Lisß Rosa fully visible, character fully visible with extra padding:1.7) | (cozy bedroom, lying oh her left side on a soft bed, head on a fluffy pillow:1.5), (She wraps both arms tightly around a small teddy bear, the teddy bear is pressed tightly between her breasts, the teddy resting directly inside her breasts, teddy squezed in her breasts:2.0), (teddy bressed between her chest:1.9), (both hands resting on the teddy bear's back:1.8), (fingers wrapped around the teddy bear's sides:1.8)}
+
+AROSA = [ROSA], [ROSA2]
+ROUTFITS = [ROSAOUTFITS], [ROSARUBBER]
+
+
+JAGL = (masterpiece, best quality, highres, high quality anime screencap, Japanese anime style, detailed anime face, soft anime shading, clear facial shadows, crisp lineart:1.8), (1boy, solo, male, 1.86m in size, 73kg, Austrian-Italian 50/50, 20 years old, young adult man:1.6), (white italian skin, a tiny bit yellow tan undertone, uniform skin tone:1.7), (longer oval face shape, long vertical face, mature male facial features, prominent roman nose, wide reddish lips, wide charming smile, bushy wider eyebrows, light green eyes, detailed anime eyes:1.8), (middle brown hair, small wave hair style, one massive smooth curved wave of hair, hair volume reaching as high as the face, large hair peak slightly higher in the middle, hair curving downwards the same distance, hair and hair peak standing away from the face, hair arching forward up over the nose:1.9), (very fit, agile and fast build, athletic, not bulky, skinny, slender, lean build, flat chest, wiry strength, right handed:1.6), (wearing an orange t-shirt, blue-gray fabric longcoat, labcoat mix, long sleeves, open coat:1.7), (brown fabric trousers, thin dark green stripes on outer legs, football motif printed on the front upper left thigh of the trousers:1.8), (white wool socks, dark blue sandals:1.6), (thick brown leather strap over right shoulder, long wooden rifle case hanging vertically down his back like a tall guitar case:1.7)
+
+
+
+JAGLSCENES = (grass field, one singular tree:1.6), (Pyley Jagl leaning against the tree:1.8), (Pyley Jagl grinning:1.5)
+
+
+
+
+
+Description:
+---
+
+DESCRIPTION = [GLOBAL], [AROSA], [ROSASCENES], [ROUTFITS]
+
+
+
+
+
+
+Negative:
+---
+
+blurry, low quality, bad quality, rough lines, thick outlines, sketchy lines, bold outlines, comic strips, split view, collage, multiple scenes, panels, multiple angles, multiple characters, clone, duplicate, bad anatomy, extra limbs, missing limbs, floating limbs, amputated, out of frame, missing fingers, fused fingers, distorted hands, bad hands, mutated feet, extra breasts, cropped, lowres, jpeg artifacts, watermark, text, ugly, fat, obese, unrealistic proportions, merged body parts, morphing, conjoined bodies, blurred boundaries, missing clear outlines, deformed, gross proportions, grainy, monochrome, bad eyes, bad nose, bad mouth, ugly face, asymmetrical face, twisted knees, double knees, backward knees, backward elbows, twisted wrists, claw hand, tattoo, piercing, glasses, generic girl, stiff pose, robotic, blank expression, clipping, flat colors, smooth plastic skin, 3d render, more things than described, more people than described, unclear body parts, body parts not correctly attatched and positioned, wrong skin color, body parts mergin into one and another, outcut perspectives, multiple perspectives, story line, more than one scenem more than one image, skin color not matching description
